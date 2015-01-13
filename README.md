@@ -1,2 +1,2 @@
 # hello-world
-Completed github guide
+Just another repository
